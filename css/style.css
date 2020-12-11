@@ -1,0 +1,127 @@
+@import url("../fonts/FredokaOne-Regular.ttf");
+
+
+body{ 
+	font-size: 14px;
+	color: #e20000;
+	background-color: #002d4f;
+	
+	
+	
+	
+
+}
+
+.nav-link{
+	color: #002d4f;
+	border-radius: 100px;
+}
+h1{
+	color: #e20000;
+	text-align: center;
+	background-color: #002d4f;
+	padding: 20px;
+}
+h2,h4{
+	text-align: center;
+	color: #002d4f;
+	background-color: #e20000;
+	
+	
+}
+
+h3{
+	text-align: center;
+	color: #002d4f;
+	background-color: #e20000;
+	padding: 15px;
+	font-size: 40px;
+}
+.img-fluid{
+	align-content: center;
+
+}
+
+header{
+	background-color:#e20000;
+}
+#Afiches{
+	background-color: #e20000;
+}
+#Fotografias{
+	background-color: #e20000;
+	
+}
+
+#Luis{
+	background-color: #e20000;
+	color:#002d4f;
+	
+}
+
+h6{
+	background-color: #002D4F;
+	color: #e20000;
+	padding: 10px;
+	text-align: center;
+	font-weight: 10;
+	font-size: 25px;
+	border-radius: 100px;
+}
+
+p{
+	font-size: 30px;
+	font-weight: 10px;
+	color: #002d4f; 
+	text-align:start;
+	margin-left: 10px;
+	padding: 5px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+
+
+contact{
+	 background-color:  #e20000;
+}
+
+#servicios{
+	background-color: #e20000;
+	
+}
+
+
+footer{
+	background-color: #002d4f;
+	color:#e20000;
+	padding: 15px 0;
+	text-align: center;
+	
+}
+
+ i{
+	color: #e20000;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
